@@ -1,0 +1,10 @@
+{
+    "name": "niyazi/php-filebrowser",
+    "authors": [
+        {
+            "name": "Niyazi",
+            "email": "niyazican60@gmail.com"
+        }
+    ],
+    "require": {}
+}
