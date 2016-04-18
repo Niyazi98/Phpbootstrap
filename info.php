@@ -1,0 +1,3 @@
+PHP (PHP: Hypertext Preprocessor) is een scripttaal, die bedoeld is om op webservers dynamische webpagina's te creëren. PHP is in 1994 ontworpen door Rasmus Lerdorf, een senior softwareontwikkelaar bij IBM. Lerdorf gebruikte Perl als inspiratie.
+
+Aanvankelijk stonden de letters PHP voor Personal Home Page (de volledige naam was Personal Home Page/Forms Interpreter, PHP/FI). Sinds PHP 3.0 is de betekenis een recursief acroniem geworden: PHP: Hypertext Preprocessor. Deze naam geeft aan waar de taal meestal voor gebruikt wordt: informatie verwerken tot hypertext (meestal HyperText arkup Language (HTML) en Extensible HyperText Markup Language (XHTML)).
