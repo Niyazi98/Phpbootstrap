@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<html>
+    <head>
+        <title>Bootstrap Example</title>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    </head>
+    
+    <body>
+        <box1>
+            <?php foreach($itemLinks as $item => $link){ ?>
+            <div>
+                <a href="?route=<?php echo $link ?>">
+                    <?php echo $item ?>
+                </a>
+            </div>
+            <?php } ?>
+        </box1>
+
+        <?php if($routeIsFile) { ?>
+        <box3>
+            <p>
+                Is het bestand schrijfbaar: <?php echo $writableText ?>.<br/>
+                Bestand groote: <?php echo $fileSize ?>.<br/>
+                Laatst aangepast: <?php echo $fileTime ?>.
+            </p>
+
+            <?php if ($fileIsText) { ?>
+            <form method="post" id="text" name="text" action="/">
+                <textarea name="text" id="text"><?php echo $readHtmlChars ?></textarea>
+            </form>
+            <?php } ?>
+
+            <?php if ($fileIsImage) { ?>
+            <img src="" />
+            <?php } ?>
+        </box3>
+        <?php } ?>
+    </body>
+</html> 
