@@ -1,1 +1,47 @@
-Hallo ik ben een test.
+Ik ben Frank: een klein Frans frietje. Ik zit in een grote patatzak. Het is meestal wel redelijk licht in de zak, maar soms is het ook pikkedonker. Ik zit in de zak met heel veel andere frietjes, maar toch voel ik me erg eenzaam. Ik leef nou al twee dagen in de zak. Wat daarvoor is gebeurd kan ik me niet herinneren. Het leven van een patatje valt niet altijd mee. Je moet de hele dag maar stil liggen en als je pech hebt lig je onderop. Die pech heb ik weer. Precies bovenop me ligt Japie. Hij is de grootste en dus heeft hij alles voor het zeggen. Er valt niet veel te zeggen in een patatzak, dus dat valt eigenlijk wel mee. Bovenop Japie liggen vast wel meer patatjes, maar dat kan ik niet zien.
+
+Ineens wordt de patatzak enorm door elkaar geschud. Japie begint op me te schelden. 
+"Ik doe helemaal niks!" roep ik wanhopig
+Het schudden gaat nog een paar seconden door. Dan wordt de zak met een plof ergens neergezet. Wat zal er buiten de zak gebeuren? Dat zal ik nu wel eens willen weten.
+Het is een tijdje stil maar dan wordt er weer flink geschud. De zak wordt weer neergezet. Ineens gaat de zak geleidelijk vooruit. Dan stopt hij weer en dan gaat hij vooruit. Nadat dat een paar keer wordt gedaan wordt de zak voor de zoveelste keer opgetild en ergens anders neergelegd. Soms komt er een ontzettende dreun op de zak. Dan kan niemand zich meer bewegen. Maar ja, anders kunnen we dat ook niet.
+
+Die tijd daarna is het ook veel van: opgetild worden en weer neergelegd worden. Na een tijd wordt de zak in een erg koude ruimte gezet. Ik zit nog steeds in de dichte zak, maar de kou komt ook naar binnen. Ik lig niet meer onderop, maar een beetje middenin. Ik lig nu bovenop Japie, die luid ligt te mopperen. Ik zie nu veel meer frietjes. Ook die ik nog nooit heb gezien.
+
+Het is al een hele tijd later als de zak weer wordt opgetild. Tot mijn grote schrik wordt de zak opengemaakt! Ik ben wel bang, maar aan de andere kant wil ik ook wel eens iets van de "buitenwereld" zien. Boven me is de zak al open. Door het gat zie ik een bruin plafond. Is dit nou de buitenwereld? Lang om daar over na te denken heb ik niet, want de zak wordt een halve slag omgedraaid. Iedereen valt uit de zak. Ik ook. Sommige proberen zich aan de zak vast te klemmen, maar dat lukt niet. Ook zij vallen naar beneden. Een paar seconden val ik door de lucht. Dan "plomp" ik in een soort modderig bad. Ik weet niet hoe ik het zomaar weet maar het is vet waarin ik lig. Op het begin valt de hitte nog wel mee, maar het wordt steeds erger. Ik vind het vet wel lekker om in te liggen, maar de hitte mag van mij wel wat verminderen. Door het vet kan ik niet goed om me heen kijken, maar vaag zie ik Japie in het vet liggen. Hij is bijna niet te herkennen, want aan de randjes van hem zit een bruin gebakken randje. Ik kan wel zien dat hij het erg moeilijk heeft. Waarmee? Tja, dat weet ik ook niet.
+
+Ik lig al een tijdje in het vet, totdat een ijzeren zeef, in de vorm van een bakje mij en alle anderen opvist. Dan worden we in een levensgrote pan gegooid. Omdat ik 1 van de kleinste en de lichtste ben, kom ik als 1 van de eersten op de bodem van de pan terecht. Bovenop me komen een heleboel anderen te liggen. Het begint een beetje te regenen. Niet met water, maar kleine korreltjes. Ik neem er een likje van. Mmm, lekker! Het is... zout. Ja. Ik neem er nog een paar likjes van, maar al gauw zit ik vol.
+
+Na een tijdje wordt er een ijzeren lepel onder me geschoven. Samen met een ander frietje lig ik op de lepel. Dan worden we op een groot, plat ding gelegd. Ik kom naast een heel mooi meisjesfrietje te liggen. Gelijk word ik verliefd. Ze heeft zo'n mooi bruin randje. Bovendien is ze ongeveer net zo groot als mij. 
+"Hoe heet je?" vraag ik aan het meisjesfrietje
+"Maartje." Zegt het meisjesfrietje
+"Wat ben jij mooi," fluister ik tegen Maartje
+"Jij ook. Je heet toch Frank?" vraagt Maartje
+Ik knik.
+"Hoe weet je dat eigenlijk?" 
+"Ik heb wel eens over je gehoord." antwoordt Maartje
+Zo! Dan was ik dus toch beroemd in de zak! Ik ga nog iets dichterbij Maartje liggen. Verliefd kijk ik haar aan. Verliefd kijkt Maartje terug.
+
+Een tijdje liggen we stil naast elkaar. Ik hoor geklop. Is dat míjn hart of die van Maartje? Alle twee, geloof ik. Die van mij, omdat ik opgewonden van Maartje ben geworden. Ik hoop dat Maartje dat ook van mij is geworden, maar ik denk dat haar hart klopt omdat ze bang is. Toch nog maar even vragen voor de zekerheid.
+"Ben je bang?"
+"Ja," antwoordt het zachte stemmetje van Maartje
+Het liefst zal ik een arm om haar heen hebben geslagen hebben, maar ik heb nu eenmaal geen arm, dus dat zal moeilijk gaan. 
+Ik voel het warme lijfje van Maartje tegen me aangedrukt. 
+"Ik blijf mijn hele leven bij jou Frank."
+Als dat tot me door gedrongen is, begin ik van binnen helemaal te gloeien. Mijn hele leven had ze gezegd. Ja, dat kan een frietje wel zeggen. Haar hele leven kan over een paar minuten al zijn afgelopen. De mijne ook trouwens.
+
+Plotseling wordt een ijzeren staafje in mijn buik geprikt. Ik schreeuw het uit van de pijn. Als ik voel dat ik omhoog ga, klem ik me goed tegen Maartje aan.
+"Frank!" roept Maartje
+"Hou me goed vast, dan kan er niks gebeuren," zeg ik
+Natuurlijk kon er van alles gebeuren, maar dat zei ik maar niet. Ik, nog steeds aan het stengeltje bengelend, hou Maartje goed vast. Het stengeltje met Maartje en ik eraan gaat omhoog. Dan worden we door een opening geduwd en van het stengeltje af geduwd. We komen op een waterig kussentje te liggen. Het is erg donker. Maartje ligt naast me. Tijd om verliefd te zijn heb ik niet, want ik heb het veel te druk met Maartje te troosten. Eigenlijk is ze zo wel het liefst: als ze bang is.
+
+Ineens zie ik boven me een stuk of acht grote stenen die langzaam naar beneden komen. Ik kan niet meer aan de stenen ontkomen. Ik voel de stenen al tegen me aankomen. Ze drukken me helemaal fijn. De pijn die ik daarbij voel is onverdraaglijk. Naast me hoor ik geschreeuw van Maartje, maar niet zo lang. 
+Dan ga ik in een soort glijbaan. Met een noodgang vlieg ik naar beneden. Leuk vind ik het niet, want ik heb de erge pijn nog steeds. Het onderste stuk van mijn lijf is er al af. 
+Dan kom ik op een zachte, modderige bodem te liggen. Het moment daarna kan ik niks meer herinneren. Ik kan me niet bewegen, want ik heb geen gevoel meer. Ook geen pijn. Ik zie ook niks meer.
+
+Een klein poosje later word ik weer wakker. Ik kijk om me heen. Ik heb al weer een klein beetje gevoel in me boven lichaam. Aan de ene kant van me ligt een half frietje. Hij is aardig breed. Maar... Maar... Dat is Japie! Ik schud een beetje tegen hem aan, maar hij beweegt niet. Hij heeft een hele gekke kleur. Dan weet ik wat er aan de hand is. Japie is dood. Ik krijg er tranen van. Ik heb Japie nooit aardig gevonden, maar toch vind ik het heel erg. Aan de andere kant van me ligt Maartje. Leeft zij eigenlijk nog wel? Ik fluister zacht haar naam. Geen antwoord. Ik word paniekerig. Ik por een beetje tegen haar aan. Steeds harder, maar ze beweegt niet. Haar ogen zijn dicht. Ik hoor haar hard niet meer kloppen. Dood galmt het door mijn hoofd, maar ik durf het zelf niet te geloven. Ik begin om me heen te schreeuwen om hulp, maar niemand komt. Dat maakt eigenlijk niks uit. Maartje is toch al dood hoe erg ik het ook vind. Dikke tranen lopen over mijn lijf. In mijn hoofd klinken de woorden die Maartje had gezegd op het ijzeren ding. Ik blijf mijn hele leven bij jou heeft Maartje gezegd. Die woorden zou ik nooit vergeten. Ze heeft het wel gedaan trouwens.
+
+Nu is het me pas opgevallen dat ik niet de enige ben die daar ligt. Om me heen liggen allemaal frietjes. Ook andere dingen. Ik kan niet goed zien of ze dood zijn, maar ik vrees van wel. Mijn hele leven is niks meer waard. Zelf besef ik maar al te goed dat ik niet lang meer leef. Ik maak me er ook geen zorgen om. Het is erg benauwd in de ruimte waar ik me bevind. Eigenlijk wil ik nu ook dood. Niemand die meer om me geeft. Er is zelfs niemand meer die me kent! Ik heb pijn, ik heb het benauwd, ik ben verdrietig.
+
+Ineens ploft er een heel groot ding boven op m'n buik. Het is een groot, rond, hard ding. Dat is ook het laatste wat ik me kan herinneren, want ik val in een diepe slaap. Een tijdje is het nog een diepe slaap, maar dan ben ik dood.
+
+Het is nu 2 dagen later. Ik herinner me de hele gebeurtenis als de dag van gisteren. Ik kijk terug op een spannende tijd. Sommige momenten zoals de laatste paar minuten van mijn leven waren vreselijk, maar de tijd die ik met Maartje doorbracht was toch wel weer heerlijk. Vlak na ik dood was gegaan was ik een tijd helemaal weg. Toen werd ik wakker op een witte, zachte bodem. Om me heen zag ik een heel mooi landschap. Er was eten in overvloed. Nu is het eten al bijna op, dus het is tijd om weer een nieuw plekje te zoeken. Ik heb verder nog geen frietjes gezien, maar die komende minuten komt daar verandering in. Ik zie een mooi meisjesfrietje die Francien heet. Ik loop er op af. Gelijk worden we weer verliefd. Ze doet me denken aan Maartje. Alleen is Maartje toch een heel stuk liever dan Francien, maar trouwen we met elkaar en krijgen wel 25 kinderen. Dat is mijn geluksgetal dus daarom hebben we daar voor gekozen. Met z'n 27en leven we nog lang en gelukkig... 
