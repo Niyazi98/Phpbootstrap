@@ -1,3 +1,4 @@
+<link href="css/stylesheet.css" rel="stylesheet" type="text/css"/>
 <?php
 $completeItemPath = getcwd();
 

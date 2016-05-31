@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link href="css/stylesheet.css" rel="stylesheet" type="text/css"/>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
         <script src="https://code.jquery.com/jquery-2.2.4.min.js"   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
@@ -15,47 +16,52 @@
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
     </head>
-    <body background="./img/glowing-blue-circles-19043-1920x1200.jpg">
-        <div class="container" width="1000%">
-            <div class="jumbotron">
-                <box1>
-                    <table class="table table-hover">
-                        <h1> File Browser </br></h1>
-                        <h2> <?php if (isset($file)){ echo "$route $file"; } else { echo "$route"; } ?> </h2>
-                        <tr>
-                            <th>Name</th>
-                            <th>File Size</th>
-                            <th>Last modified</th>
-                        </tr>
-                        <?php foreach($itemLinks as $item => $properties){ ?>
-                            <tr class='clickable-row' data-href='?route=<?php echo $properties['link'] ?>'>
-                                <td>
-                                    <?php echo $item ?>
-                                </td>
-                                <td>
-                                    <?php if ($properties['is_file']) { ?>
-                                        <?php echo $properties['size'] ?>
-                                    <?php } else { ?>
-                                        -
-                                    <?php } ?>
-                                </td>
-                                <td>
-                                    <?php if ($properties['is_file']) { ?>
-                                        <?php echo $properties['last_modified'] ?>
-                                    <?php } else { ?>
-                                        -
-                                    <?php } ?>
-                                </td>
+   <body><!-- background="./img/glowing-blue-circles-19043-1920x1200.jpg"-->
+        <div>
+            <header>
+                <h1>File Browser</h1>
+            </header>
+            <div class="container-fluid">
+                <div class="row">
+                    <?php if (isset($file))  { ?>
+                    <div class="col-md-7">
+                    <?php } else { ?>
+                    <div class="col-md-12">
+                    <?php } ?>
+                        <table class="table table-hover">
+                            <h2> <?php if (isset($file)){ echo "$route $file"; } else { echo "$route"; } ?> </h2>
+                            <tr>
+                                <th>Name</th>
+                                <th>File Size</th>
+                                <th>Last modified</th>
                             </tr>
-                        <?php } ?>
-                    </table>
-                </box1>
-                <?php if (isset($file))  { ?>
-                    <box3>
+                            <?php foreach($itemLinks as $item => $properties){ ?>
+                                <tr class='clickable-row' data-href='?route=<?php echo $properties['link'] ?>'>
+                                    <td>
+                                        <?php echo $item ?>
+                                    </td>
+                                    <td>
+                                        <?php if ($properties['is_file']) { ?>
+                                            <?php echo $properties['size'] ?>
+                                        <?php } else { ?>
+                                            -
+                                        <?php } ?>
+                                    </td>
+                                    <td>
+                                        <?php if ($properties['is_file']) { ?>
+                                            <?php echo $properties['last_modified'] ?>
+                                        <?php } else { ?>
+                                            -
+                                        <?php } ?>
+                                    </td>
+                                </tr>
+                            <?php } ?>
+                        </table>
+                    </div>
+                    <?php if (isset($file))  { ?>
+                    <div class="col-md-5">
                         <?php if($routeIsFile) { ?>
-                            <p>
-                                
-                            </p> 
+
                         <?php } ?>
                         <?php if ($fileIsText) { ?>
                             Is het bestand schrijfbaar: <?php echo $writableText ?><br/>
@@ -67,8 +73,9 @@
                         <?php if ($fileIsImage) { ?>
                             <img src="<?php echo $route . '/' . $file ?>" width="100%" height="auto" />
                         <?php } ?>
-                    </box3>
-                <?php } ?>
+                    </div>
+                    <?php } ?>
+                </div>
             </div>
         </div>
     </body>
