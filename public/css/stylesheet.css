@@ -1,18 +1,38 @@
 body{
-     background-image:url("../img/glowing-blue-circles-19043-1920x1200.jpg"); 
+     background-color: white; 
 }
+
 header{
+    height: 15%;
+    background-color: #28283e;
     font-size: 40px;
 }
-h1{
+#phpTitel{
+    width: 13.5%;
+}
+
+titel{
+    color: white;
     font-weight: 800;
-    color: red;
-    font-size: 40px;
+    font-size: 50px;
 }
+h2{
+    
+}
+
 #file-list{
+    
 }
+
 img{
+    width: 100%;
+    max-width: 100%;
     border-color: #000;
 }
 #file-detail{
+    border-radius: 50px;
+}
+
+tbody{
+    background-color: white;
 }

@@ -9,6 +9,9 @@ if ($routeIsFile){
 // Scan the working directory and create route links for each item.
 $itemsInWorkingDirectory = array_slice(scandir($currentWorkingDirectory), 1 );
 
+$file = basename($completeItemPath);
+$isFileWritable = is_writable($file);
+    $writableText = ($isFileWritable) ? 'Ja' : 'Nee';
 $itemLinks = array();
 foreach($itemsInWorkingDirectory as $item){
     $itemLinks[$item]['is_file'] = (is_file($currentWorkingDirectory . '\\' . $item));
@@ -16,4 +19,5 @@ foreach($itemsInWorkingDirectory as $item){
     $itemLinks[$item]['size'] = $itemSize = human_filesize(filesize($currentWorkingDirectory . '\\' . $item));
     $itemLinks[$item]['last_modified'] = date('d-m-Y H:i:s', filemtime($currentWorkingDirectory . '\\' . $item));
     $itemLinks[$item]['link'] = $route . '/' . $item;
+    $itemLinks[$item]['is_writeable'] = $writableText ;
 }
