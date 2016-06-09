@@ -1,0 +1,17 @@
+Om op de website te komen. 
+
+1)   Ga naar CMD.
+
+1.1) Ga naar de working-directory.
+
+1.2) Type : cd Desktop/Phpbootstrap/public in CMD.
+
+
+2)   Run nu de Website 
+
+2.1) Type : [php -S 10.81.10.101:80] in CMD
+
+
+3)   Ga nu naar een van je internet browsers.
+
+3.1) Type : [10.81.10.101:80] in de URL.

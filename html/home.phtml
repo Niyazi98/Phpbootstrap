@@ -15,7 +15,7 @@
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
     </head>
-   <body><!-- background="./img/glowing-blue-circles-19043-1920x1200.jpg"-->
+    <body>
         <div>
             <header>
                 <titel><img id="phpTitel" src="img/PHP-logo.svg.png" alt=""/> File Browser</titel>
@@ -23,47 +23,52 @@
             <nav class="navbar navbar-default">
                 <div class="container-fluid">
                     <div class="navbar-header">
-                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
                             <span class="sr-only">Toggle navigation</span>
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
                     </div>
-                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <div class="collapse navbar-collapse ">
                         <ul class="nav navbar-nav">
                             <li>
-                                <a href="http://localhost/">
-                                    <button type="button" class="btn btn-default btn-lg">
-                                        <span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home
-                                    </button>
-                                </a>
+                                <button type="button" class="btn btn-default btn-lg" onclick="window.location.href='http://localhost'" >
+                                    <span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home
+                                </button>
+                            </li>
+                            <li>  
+                                <button form="file-form" type="submit" class="btn btn-default btn-lg">
+                                    <span  class="glyphicon glyphicon-floppy-save" value="Save"></span>Save
+                                </button>
                             </li>
                             <li>
-                              <button form="file-form" type="submit" class="btn btn-default btn-lg">
-                                    <span  class="glyphicon glyphicon-floppy-save" value="Save"/>Save
-                              </button>
-                            </li>
-                            <li>
-                                <div class="disabled">
-                                    <input type="text" class="disabled" <?php if (isset($file)){ echo "$route / $file"; } else { echo "$route"; } ?>>
-                                </div>
-                            </li>
-                            <li class="dropdown">
-                                <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Made with <span class="caret"></span></a>
+                                <?php if ($route) { ?>
+                                    <ol class="breadcrumb">
+                                        <?php foreach($routeParts as $part){ ?>
+                                            <li>
+                                                <a href="?route=<?php echo $breadcrumbs[$part] ['link']?>"><?php echo $part ?></a> 
+                                            </li>
+                                        <?php } ?>
+                                    </ol>
+                                <?php } ?>
+                            </li><li class="dropdown pull-right">
+                                <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" float="right">Made with <span class="caret"></span></a>
                                 <ul class="dropdown-menu">       
                                     <li><a href="http://www.w3schools.com/html/ " target="_blank">Html</a></li>
                                     <li><a href="http://php.net/" target="_blank">Php</a></li>
                                     <li><a href="http://getbootstrap.com/" target="_blank">Bootstrap</a></li>
                                 </ul>
                             </li>
+                            
+                            
                         </ul>
                     </div>
                 </div>
             </nav>
             <div class="container-fluid">
                 <div class="row">
-                    <?php if (isset($file))  { ?>
+                    <?php if ($routeIsFile)  { ?>
                         <div class="col-md-7 col-lg-5">
                     <?php } else { ?>
                         <div class="col-md-12">
@@ -97,13 +102,15 @@
                                 <td>
                                     <?php if ($properties['is_file']) { ?>
                                         <?php echo $properties['is_writeable'] ?>
+                                    <?php } else { ?>
+                                        -
                                     <?php } ?>
                                 </td>
                             </tr>
-                        <?php }  ?>
+                        <?php } ?>
                     </table>
                 </div>
-                    <?php if (isset($file))  { ?>
+                <?php if ($routeIsFile)  { ?>
                     <div class="col-md-5 col-lg-7">
                         <?php if ($fileIsText) { ?>
                             <form id="file-form" method="post" action="?route=<?php echo "$route/$file" ?>">
@@ -114,10 +121,10 @@
                             <img src="<?php echo $route . '/' . $file ?>"/>
                         <?php } ?>
                     </div>
-                    <?php } ?>
+                <?php } ?>
                 </div>
             </div>
         </div>
     </body>
 </html> 
-                            
+                                 

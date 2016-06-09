@@ -1,5 +1,5 @@
 <?php
-$routeIsFile = is_file($completeItemPath);
+$routeIsFile = is_file($completeItemPath );
 
 if ($routeIsFile){
     $currentWorkingDirectory = dirname($completeItemPath);
@@ -18,6 +18,5 @@ foreach($itemsInWorkingDirectory as $item){
     $itemLinks[$item]['link'] = $route . '/' . $item;
     $itemLinks[$item]['size'] = $itemSize = human_filesize(filesize($currentWorkingDirectory . '\\' . $item));
     $itemLinks[$item]['last_modified'] = date('d-m-Y H:i:s', filemtime($currentWorkingDirectory . '\\' . $item));
-    $itemLinks[$item]['link'] = $route . '/' . $item;
     $itemLinks[$item]['is_writeable'] = $writableText ;
 }
