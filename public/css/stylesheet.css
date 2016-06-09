@@ -1,7 +1,7 @@
 body{
-     background-color: white; 
+     background-color: white;
+     max-height: 100%;
 }
-
 header{
     height: 15%;
     background-color: #28283e;
@@ -10,29 +10,44 @@ header{
 #phpTitel{
     width: 13.5%;
 }
-
 titel{
     color: white;
     font-weight: 800;
     font-size: 50px;
 }
-h2{
-    
-}
-
 #file-list{
     
 }
-
 img{
+    border:5px solid #28283e;
     width: 100%;
     max-width: 100%;
-    border-color: #000;
 }
 #file-detail{
     border-radius: 50px;
 }
-
 tbody{
     background-color: white;
+}
+.nav{
+    width: 100%;
+}
+.nav li > button{
+    margin: 15px;
+}
+.breadcrumb{
+    font-size: 20px;
+    width: 100%;
+    padding: 15px;
+    margin: 15px;
+}
+.container-fluid img{
+    max-height: 80vh;
+    width: auto;
+}
+@media (max-width: 767px) {
+    li{
+        float:left;
+        
+    }
 }
