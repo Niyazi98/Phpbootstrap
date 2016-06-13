@@ -11,7 +11,7 @@ $itemsInWorkingDirectory = array_slice(scandir($currentWorkingDirectory), 1 );
 
 $file = basename($completeItemPath);
 $isFileWritable = is_writable($file);
-    $writableText = ($isFileWritable) ? 'Ja' : 'Nee';
+    $writableText = ($isFileWritable) ? 'Nee' : 'Ja';
 $itemLinks = array();
 foreach($itemsInWorkingDirectory as $item){
     $itemLinks[$item]['is_file'] = (is_file($currentWorkingDirectory . '\\' . $item));
